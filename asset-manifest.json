@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/naveenprasanth06/static/css/main.5d58ea96.css",
+    "main.js": "/naveenprasanth06/static/js/main.66d21f61.js",
+    "static/media/correct.mp3": "/naveenprasanth06/static/media/correct.160572d72c858155072e.mp3",
+    "static/media/wrong.mp3": "/naveenprasanth06/static/media/wrong.e946821894ae9b0a0d6f.mp3",
+    "static/media/bg.jpg": "/naveenprasanth06/static/media/bg.bdfe3791319d1dd3d588.jpg",
+    "index.html": "/naveenprasanth06/index.html",
+    "main.5d58ea96.css.map": "/naveenprasanth06/static/css/main.5d58ea96.css.map",
+    "main.66d21f61.js.map": "/naveenprasanth06/static/js/main.66d21f61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d58ea96.css",
+    "static/js/main.66d21f61.js"
+  ]
+}
